@@ -4,7 +4,7 @@
 - 🔮 I want to learn C# and Java next 🎮
 - 🔋 I am looking to collaborate on any energy saving, energy storage, or sustianability projects ♻️
 - Fun Fact: My first phone was a Sagem MY3020 ☎️, and chemistry is really all about electrons 🧪
-- 📫 How to reach me: https://github.com/glowe691/DrGLowe
+- 📫 How to reach me: https://glowe691.github.io/DrGLowe/
 - 🖖
 <!--
 **glowe691/glowe691** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
