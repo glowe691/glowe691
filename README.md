@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning HTML/CSS/JS, Flutter with Dart, Python for Machine Learning and big data with Apache Spark, and I just started GO (golang).
-- 🔮 I want to learn C# and Java next 🎮
+- 🌱 I’m currently learning HTML/CSS/JS, Flutter with Dart, Python for Machine Learning and big data with Apache Spark, and web dev with Django.
+- 🔮 I want to learn C# 🎮
 - 🔋 I am looking to collaborate on any energy saving, energy storage, or sustianability projects ♻️
-- Fun Fact: My first phone was a Sagem MY3020 ☎️, and chemistry is really all about electrons 🧪
+- Fun Facts: My first phone was a Sagem MY3020 ☎️, and chemistry is really all about electrons 🧪
 - 📫 How to reach me: https://glowe691.github.io/DrGLowe/
 - 🖖
 <!--
