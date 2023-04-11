@@ -1,8 +1,10 @@
 ### Hi there 👋
+I'm a researcher who specialises in electrochemistry and spent some time working in a data science team:
+- 🛠️ My main programming language is python which I use with SQL for data science and applications
+- 🤖 I am improving my C and C++ for micro-controller applications, as well as python for machine learning
+- 🌱 I am starting to play with golang and Julia
+- 🔋 I am hope to use electrochemistry, data science and programming for sustianabile chemistry projects ♻️
 
-- 🌱 I’m currently learning HTML/CSS/JS, Flutter with Dart, Python for Machine Learning and big data with Apache Spark, and web dev with Django.
-- 🔮 I want to learn C# 🎮
-- 🔋 I am looking to collaborate on any energy saving, energy storage, or sustianability projects ♻️
 - Fun Facts: My first phone was a Sagem MY3020 ☎️, and chemistry is really all about electrons 🧪
 - 📫 How to reach me: https://glowe691.github.io/DrGLowe/
 - 🖖
