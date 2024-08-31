@@ -1,16 +1,17 @@
 ### Hi there 👋
-I'm a researcher who specialises in electrochemistry and spent some time working in a data science team:
-- 🛠️ My main programming language is python which I use with SQL for data science and applications
-- 🤖 I am improving my C and C++ for micro-controller applications, as well as python for machine learning
-- 🌱 I am starting to play with golang and Julia
-- 🔋 I am hope to use electrochemistry, data science and programming for sustianabile chemistry projects ♻️
+I'm a researcher who specialises in electrochemistry. I've also spent some time working in a data science team and with a venture studio:
+- 🛠️ My main programming language is python which I used with SQL for data science and applications
+- 😄 I am a bit of a unit testing geek
+- 🌱 I have used C++ & arduino for making some custom pumps but as you can see from my code, it needs work 🤖
 
-- Fun Facts: My first phone was a Sagem MY3020 ☎️, and chemistry is really all about electrons 🧪
-- 📫 How to reach me: https://glowe691.github.io/DrGLowe/
+- Fun Facts: My first phone was a Sagem MY3020 ☎️, my profile phone was the first thing I ever drew in blender, and chemistry is really all about electrons 🧪
+
 - 🖖
 <!--
+- 📫 How to reach me: https://glowe691.github.io/DrGLowe/
 **glowe691/glowe691** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- 🌱 I am starting to play with golang and Julia
+- 🔋 I am hope to use electrochemistry, data science and programming for sustianabile chemistry projects ♻️
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
