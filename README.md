@@ -4,7 +4,7 @@ I'm a researcher who specialises in electrochemistry. I've also spent some time 
 - 😄 I am a bit of a unit testing geek
 - 🌱 I have used C++ & arduino for making some custom pumps but as you can see from my code, it needs work 🤖
 
-- Fun Facts: My first phone was a Sagem MY3020 ☎️, my profile phone was the first thing I ever drew in blender, and chemistry is really all about electrons 🧪
+- Fun Facts: My first phone was a Sagem MY3020 ☎️, my github profile image is the first thing I ever drew in blender, and chemistry is really all about electrons 🧪
 
 - 🖖
 <!--
